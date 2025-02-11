@@ -7,4 +7,4 @@ Posteriormente se extrae lo que esté en etiquetas h1,h2 y h3 para luego en cada
 
 **Cantidad de h1:** 1 \
 **Cantidad de h2:** 17 \
-**Cantidad de h3:** 73 \
+**Cantidad de h3:** 73 
